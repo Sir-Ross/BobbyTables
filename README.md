@@ -1,7 +1,7 @@
 # BobbyTables
 ## _A discord multi-function bot written by Sir Ross_
 
-BobbyTables is a discord bot that aims to recreate functionality of an IRC bot written by Kieran Breeze.
+BobbyTables is a discord bot that aims to recreate and add on to the functionality of an IRC bot written by Kieran Breeze.
 This bot uses the Discord.js API to implement a modular bot with a simple command file structure.
 
 
